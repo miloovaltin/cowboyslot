@@ -1,0 +1,16 @@
+{
+"name": "cowboyslot",
+"theme": "cowboyslot",
+"version": "6.1.2",
+"description": "cowboyslot สมัครเว็บบาคาร่าเว็บตรง สมาชิกเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"cowboyslot",
+"cowboyslot เครดิตฟรี",
+"cowboyslot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/cowboyslot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
